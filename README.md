@@ -1,6 +1,11 @@
 # STOP
 Proyecto para Hack The Ocean
 
+#link desplegado
+https://oscar-rvr.github.io/STOP/
+https://oscar-rvr.github.io/STOP/
+https://oscar-rvr.github.io/STOP/
+
 #Premisa
 tristemente todos los integrantes de nuestro proyecto son estudiantes que tienen que trabajar en fin de semana por lo cual nos vimos muy limitados en tiempo así que lo que quisimos plasmar es una idea que fuese facil de realizar, que tuviese gran impacto, y que fuese muy escalable. Con el poco tiempo que disponiamos mas que enfocarnos en una gran landing page fue plasmar una idea, una inspiracion o un concepto de que es posible ganar algo si te preocupas por el medio ambiente , esto eventualmente creará verdaderas inspiraciones y consiencia acerca de nuestras acciones
 
